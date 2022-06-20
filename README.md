@@ -1,5 +1,5 @@
 <h1>Library for clean screen of console</h1>
-<hr>
+
 Example:
 
 ```python

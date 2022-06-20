@@ -14,3 +14,8 @@ for i in range(10):
     sleep(1)
     clean()
 ```
+<h1>Install</h1>
+
+```shell
+pip3 install cleanout
+```
